@@ -1,7 +1,7 @@
 
 body{
 	font-family: "Poppin", sans-serif;
-	background: #2e3537;
+	background: url(18.jpg);
 	height: 100vh;
 	display: flex;
 	justify-content: flex-end;
