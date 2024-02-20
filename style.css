@@ -4,7 +4,7 @@ body{
 	background: #2e3537;
 	height: 100vh;
 	display: flex;
-	justify-content: center;
+	justify-content: flex-end;
 	align-items: center;
 }
 
